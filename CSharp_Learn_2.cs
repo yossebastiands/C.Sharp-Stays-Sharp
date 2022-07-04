@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 /// This is a short program about displaying a formatted string output.
-namespace SoloLearn
+namespace Staysharp
 {
     class CSharp_Learn_2
     {
